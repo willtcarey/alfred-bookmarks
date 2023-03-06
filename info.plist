@@ -132,7 +132,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>bm</string>
+				<string>b</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -151,9 +151,9 @@
 				<key>scriptfile</key>
 				<string>command.rb</string>
 				<key>subtext</key>
-				<string>bm &lt;tag&gt;</string>
+				<string>b &lt;tag&gt;</string>
 				<key>title</key>
-				<string>bm...</string>
+				<string>b...</string>
 				<key>type</key>
 				<integer>5</integer>
 				<key>withspace</key>
